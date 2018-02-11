@@ -1,0 +1,19 @@
+{
+  "name": "Homework-week-3",
+  "version": "1.0.0",
+  "description": "This is the homework for week 3",
+  "keywords": [
+    "Homework",
+    "Week 3"
+  ],
+  "author": "Michel Mercera",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-react-easy": "^0.1.9"
+  }
+}
