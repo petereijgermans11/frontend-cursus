@@ -1,0 +1,11 @@
+{
+  "name": "node example",
+  "version": "1.0.0",
+  "description": "Traverse direcory",
+  "keywords": [
+    "Traverse"
+  ],
+  "author": "Michel Mercera",
+  "license": "MIT"
+  
+}
