@@ -1,6 +1,5 @@
 # Homework week 2
 
-This is the homework for week 2.
 You must have node installed.
 
 In this exercise we will create a very simple filewalker.
